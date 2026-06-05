@@ -1,7 +1,5 @@
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback } from "react";
 import {
-  Scissors,
-  ShoppingBag,
   TrendingUp,
   AlertCircle,
   Search,
@@ -10,16 +8,13 @@ import {
   Pencil,
   Trash2,
   Calendar,
-  Wifi,
   WifiOff,
-  ChevronRight,
   X,
   ArrowUpCircle,
   ArrowDownCircle,
   Receipt,
   ClipboardList,
   CheckCircle,
-  Clock,
   Package,
   Banknote,
   BarChart2,
